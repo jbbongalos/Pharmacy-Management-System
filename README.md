@@ -11,4 +11,5 @@ This is a Pharmacy Management System made to help manage medicines, sales, and s
 - Reports: Generate daily sales reports with total medicines sold, total sales amount, and low-stock information.
 
 # Scope and Limitation:
-The system serves as a simple management tool for small and medium-sized pharmacies. It focuses on organizing essential records and helping users track medicine stock and basic customer/supplier/employee information. The system is console-based and does not have a graphical interface. Data is not saved permanently; all information is lost when the program closes. No real-time sales module (planned but not implemented). No database or file storage yet. Report and prescription modules are only partially implemented (structure only).
+- The system serves as a simple management tool for small and medium-sized pharmacies. It focuses on organizing essential records and helping users track medicine stock and basic customer/supplier/employee information.
+- The system is console-based and does not have a graphical interface. Data is not saved permanently; all information is lost when the program closes. No real-time sales module (planned but not implemented). No database or file storage yet. Report and prescription modules are only partially implemented (structure only).
