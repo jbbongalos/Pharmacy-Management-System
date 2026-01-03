@@ -2,6 +2,7 @@
 This is a Pharmacy Management System made to help manage medicines, sales, and stock in a small pharmacy. It allows adding, updating, and viewing medicines, and alerts when stock is low. The system also keeps track of sales and records for easy checking and management.
 
 # Features/Functionality:
+
 - Medicine Management: Register medicines with ID, name, stock, price,and expiry date. Update, view, and delete medicines. Shows low-stock alerts automatically.
 - Customer Management: Add, update, view, and delete customer records.
 - Supplier Management: Add, update, view, and delete supplier information including company and contact details.
