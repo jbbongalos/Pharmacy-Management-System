@@ -10,6 +10,7 @@ This is a Pharmacy Management System made to help manage medicines, sales, and s
 - Prescription Management: Add prescriptions linking customers and medicines, track quantities, and display records.
 - Sales Transactions: Handle sales using polymorphism. Updates stock, records sales, calculates totals, and displays sale information.
 - Reports: Generate daily sales reports with total medicines sold, total sales amount, and low-stock information.
+- Implementing crud
 
 # Scope and Limitation:
 - The system serves as a simple management tool for small and medium-sized pharmacies. It focuses on organizing essential records and helping users track medicine stock and basic customer/supplier/employee information.
